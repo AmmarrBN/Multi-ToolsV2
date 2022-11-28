@@ -7,6 +7,11 @@ Sebuah Program Python (Multi Tools) Yang Saya Rancang Sendiri
   <a href="https://github.com/AmmarrBN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Minimal+Kasi+Star+lah+kontol+!" alt="UwU">
 </p>
 
+# Info
+<p align="center">
+  <a href="https://github.com/AmmarrBN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Sewaktu+waktu+tools+ini+akan" alt="UwU">
+  <a href="https://github.com/AmmarrBN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=expired+jadi+gunakan+dengan+bijak+!" alt="UwU">
+</p>
 
 <details open>
   <summary><strong> Install Package + Run Script (AmmarrBN)</strong></summary>
@@ -29,7 +34,7 @@ Sebuah Program Python (Multi Tools) Yang Saya Rancang Sendiri
 | **Menu Tmbhan** |[✔️](https://github.com/AmmarrBN) |
 | **Spam Brutal Telah Di Update** |[✔️](https://github.com/AmmarrBN) |
 | **Yt Downloader** |[✔️](https://github.com/AmmarrBN) |
-| **Insta Fol&Like** |[Here](https://youtube.com/channel/UCyxWbQIfP1ewwQou-gqZ2Iw) |
+| **Insta Fol&Like** |[✔️](https://github.com/AmmarrBN) |
 ---------
 
 <li><code>Get<a href="https://karyawan.co.id/tjbH5aNo">Token</a></code></li>
