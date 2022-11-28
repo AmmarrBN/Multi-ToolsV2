@@ -1,0 +1,7 @@
+requests
+bs4
+colorama
+pytube
+rich
+pycryptodome
+datetime
