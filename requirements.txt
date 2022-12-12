@@ -1,3 +1,4 @@
+stdiomask
 requests
 bs4
 colorama
